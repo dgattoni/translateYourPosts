@@ -1,6 +1,6 @@
 == README
 
-Tutorial Author: Daniela Gattoni Ceated at: 28 march 2015
+Tutorial Author: Daniela Gattoni Created at: 28 march 2015
 
 for study purposes for DesafioLatam Bootcamp 2015 in Santiago, Chile.
 

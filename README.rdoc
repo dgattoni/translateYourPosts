@@ -1,17 +1,25 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutorial Author: Daniela Gattoni Ceated at: 28 march 2015
+
+for study purposes for DesafioLatam Bootcamp 2015 in Santiago, Chile.
+
+Tutorial Steps (spanish only for now!) 
+http://danielagattoni.quiltyweb.com/almacenar-traducciones-de-tus-textos-en-la-base-de-datos/
+
+Tutorial Description: 
+
+Si leíste el tutorial I18n en Rails podrás notar que hasta este punto, los usuarios pueden cambiar el idioma del sitio y todos los enlaces, botones, etiquetas y todos los elementos que definiste con <%= t(‘cualquier texto’) %> serán traducidos. Sin embargo, el contenido de tus tablas de la base datos, por ejemplo un modelo de posts no lo hará. Los artículos sólo se mostrarán en el idioma en que fueron escritos, por supuesto. ¿Cómo podemos almacenar traducciones de contenido generado por los usuarios? La forma más sencilla de hacerlo es mediante el uso de la gema Globalize.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby 2.2.0p0
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation sqlite3 (for demo)
 
 * Database initialization
 
